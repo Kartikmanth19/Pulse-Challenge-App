@@ -1,0 +1,5 @@
+.angular/cache/
+echo ".angular/cache/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore Angular cache"
+git push origin main
